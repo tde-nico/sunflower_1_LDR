@@ -1,3 +1,3 @@
 # sunflower_1_LDR
 
-a Light tracker with one LDR
+A Light tracker with one LDR
